@@ -42,7 +42,7 @@ body {
 
 	// Sizes
 	@include small-screens {
-		--button-size: 20px;
+		--button-size: 25px;
 		--font-size: 11px;
 		--icon-size: 60px;
 		--spacing-small: 8px;
@@ -50,7 +50,7 @@ body {
 		--spacing-large: 30px;
 	}
 	@include large-screens {
-		--button-size: 25px;
+		--button-size: 30px;
 		--font-size: 12px;
 		--icon-size: 80px;
 		--spacing-small: 10px;
