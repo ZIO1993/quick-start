@@ -11,11 +11,13 @@ import "./index.scss";
 
 import en from "./locale/en.json";
 import de from "./locale/de.json";
+import it from "./locale/it.json";
 
 i18n.use(initReactI18next).init({
 	resources: {
 		en: { common: en },
 		de: { common: de },
+		it: { common: it }
 	},
 	lng: "en",
 	defaultNS: "common",

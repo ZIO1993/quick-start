@@ -1,0 +1,22 @@
+{
+	"actions": {
+		"copy": "Copia",
+		"openInNewTab": "Apri in un nuovo Tab",
+		"openInIncognito": "Apri in Incognito",
+		"editItem": "Modifica...",
+		"moveUp": "Sposta su",
+		"delete": "Cancella",
+		"createBookmark": "Crea preferito",
+		"createFolder": "Crea cartella",
+		"setDefaultDirectory": "Imposta come cartella default",
+		"settings": "Impostazioni",
+		"create": "Crea",
+		"edit": "Modifica",
+		"save": "Salva"
+	},
+	"types": { "folder": "Cartella", "bookmark": "Preferito" },
+	"fields": { "title": "Titolo", "url": "URL" },
+	"errors": {
+		"incognitoDisabled": "Abilita la modalità di navigazione in incognito per questa estensione se desideri aprire una scheda in modalità privata."
+	}
+}
